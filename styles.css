@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  height: 100vh;
+}
+.header {
+  width: 100%;
+  color: white;
+  margin-top: -1%;
+  background-color: #393a3b;
+}
+.body {
+  width: 100%;
+  color: black;
+}
+.developer-info {
+  width: 100%;
+  color: white;
+  background-color: #393a3b;
+}
+
+.images {
+  width: 500px;
+  height: 300px;
+  border-radius: 20px;
+}
+.developer-pics-and-bios div {
+  margin-top: 5%;
+}
+
+.bio-containers {
+  /* width: 100%; */
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.bio-info-container {
+  margin-left: 5%;
+}
+#developer-image {
+  width: 100%;
+  height: 500px;
+  object-fit: cover;
+}
