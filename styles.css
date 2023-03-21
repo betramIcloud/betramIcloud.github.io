@@ -18,6 +18,12 @@ body {
   background-color: #393a3b;
 }
 
+#developer-image {
+  width: 100px;
+  height: 200px;
+  border-radius: 5px;
+}
+
 .images {
   width: 500px;
   height: 300px;
